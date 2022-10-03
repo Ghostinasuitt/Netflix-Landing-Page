@@ -1,4 +1,4 @@
 # 2019-Netflix-Landing-Page
-this is a Netflix landing page exercise 
+This is the 2019 front-end Netflix landing page 
 
-live url: https://github.com/Ghostinasuitt/Netflix-Landing-Page.git
+Live URL: https://github.com/Ghostinasuitt/Netflix-Landing-Page.git
